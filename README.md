@@ -1,5 +1,5 @@
 # thorlabs_MFF101
-Python device adaptor: motorized filter flip mount with Ø1" optic holder.
+Python device adaptor: Thorlabs MFF101 motorized filter flip mount with Ø1" optic holder.
 ## Quick start:
 - Download the Kinesis (or APT) software GUI from Thorlabs and run/check the flipper...
 - To enable the COM port go to Device Manager, find Thorlabs 'APT USB device' (under USB controllers) and on the 'advanced' tab select the **'load VCP'** check box.
